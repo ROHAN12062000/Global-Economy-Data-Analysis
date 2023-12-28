@@ -1,1 +1,1 @@
-# Python-Projects
+# Global Economy Data Analysis
